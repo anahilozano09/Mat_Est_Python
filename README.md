@@ -1,2 +1,3 @@
-# Mat_Est_Python
-Repositorio para las clases del curso intersemestral "Matemáticas y Estadística en Python" del semestre 2023-2
+## Matemáticas y Estadística con Python
+# Descripción
+En este repositorio se podrán encontrar los apunte y ejercicios realizados durante el intersemestral de "Matemáticas y Estadística con Python" del semestre 2023-2
